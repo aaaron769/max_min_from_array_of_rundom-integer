@@ -1,0 +1,1 @@
+# max_min_from_array_of_rundom-integer
